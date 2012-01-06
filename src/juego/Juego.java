@@ -12,7 +12,7 @@ public class Juego extends JFrame {
             
             
     Juego() {
-        super("Juego Bicolor");
+        super("JUEGO BICOLOR");
         this.crearAmbiente();
     }
     
